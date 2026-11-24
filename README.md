@@ -8,7 +8,7 @@ The framework is organized into two evaluation environments:
 - **Small-Scale Evaluation** – Uses a dataset containing 100,000 records.
 - **Large-Scale Evaluation** – Uses a dataset containing 5,000,000 records.
 
-Dataset Source: [Kaggle]([https://github.com](https://www.kaggle.com/datasets/mczielinski/Bitcoin-historical-data))
+**Dataset Source:** [Kaggle – Bitcoin Historical Data](https://www.kaggle.com/datasets/mczielinski/Bitcoin-historical-data)
 
 Both evaluations examine anomaly detection performance and computational resource requirements under different execution settings.
 
@@ -43,7 +43,7 @@ The framework is evaluated using two dataset configurations to examine the relat
 ## Published Research Paper
 This repository accompanies a research paper published through the Institute of Electrical and Electronics Engineers (IEEE).
 
-**Read the full paper:** [Research]([https://ieeexplore.ieee.org/document/11468242))
+**Read the Full Paper:** [IEEE Xplore – Research Paper](https://ieeexplore.ieee.org/document/11468242)
 
 ## Disclaimer
 This repository showcases selected core implementations and major functions from the research project for portfolio and demonstration purposes. It does not contain the complete research codebase or all supporting components. The shared files highlight key methodologies and functionalities developed during the study.
